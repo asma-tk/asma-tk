@@ -17,8 +17,7 @@
 </div>
 ## 🎬 Demo Video
 
-
-[🎥 Watch the demo](./ia.mp4)
+<video src="./ia.mp4" controls width="100%"></video>
 ##  About Me
 
 -  **AI Developer** at [Simplon](https://simplon.co) — training the next generation of tech talent
