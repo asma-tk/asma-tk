@@ -15,7 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;Building+Intelligent+Solutions;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
-
+(./ia.mp4)
 ---
 
 ##  About Me
