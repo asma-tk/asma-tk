@@ -18,14 +18,14 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 **AI Developer** at [Simplon](https://simplon.co) — training the next generation of tech talent
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning** & **Deep Learning**
-- 🔭 Currently working on cutting-edge AI projects and real-world ML applications
-- 🌱 Always learning — exploring **LLMs**, **NLP**, **Computer Vision** and more
-- 💡 I love turning data into insights and ideas into intelligent solutions
-- 🌍 Based in France
+-  **AI Developer** at [Simplon](https://simplon.co) — training the next generation of tech talent
+- Passionate about **Artificial Intelligence**, **Machine Learning** & **Deep Learning**
+-  Currently working on cutting-edge AI projects and real-world ML applications
+-  Always learning — exploring **LLMs**, **NLP**, **Computer Vision** and more
+-  I love turning data into insights and ideas into intelligent solutions
+-  Based in France
 
 ---
 
@@ -68,13 +68,13 @@
 
 ## 🌟 What I'm Working On
 
-- 🧪 **AI/ML Projects** — from data preprocessing to model deployment
-- 📚 **Teaching & Mentoring** — helping learners grow at Simplon
-- 🔬 **Research** — exploring new techniques in LLMs and generative AI
+-  **AI/ML Projects** — from data preprocessing to model deployment
+-  **Teaching & Mentoring** — helping learners grow at Simplon
+-  **Research** — exploring new techniques in LLMs and generative AI
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
