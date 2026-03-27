@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/asma-t-5b71b6217/](https://www.linkedin.com/in/asma-t-5b71b6217/)" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/asma-t-5b71b6217/" target="_blank">LinkedIn</a> •
   <a href="https://my-tk-as-ai.netlify.app/" target="_blank">Portfolio</a> •
   <a href="mailto:YOUR_EMAIL_HERE" target="_blank">Email</a>
 </p>
