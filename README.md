@@ -25,10 +25,9 @@
 -  I love turning data into insights and ideas into intelligent solutions
 -  Based in France
 
-<video width="600" controls>
-  <source src="https://github.com/asma-tk/asma-tk/blob/main/ia.mp4" type="video/mp4">
-  
-</video>
+## 🎬 AI Project Demo
+
+[![Watch the Video](https://img.youtube.com/vi/-HyRAWnmRbE/0.jpg)](https://www.youtube.com/watch?v=-HyRAWnmRbE)
 ---
 
 ## 🛠️ Tech Stack
