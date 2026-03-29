@@ -1,3 +1,6 @@
+ ![AI Demo](demo.gif)
+
+
 ## Hi there 👋
 
 
@@ -25,9 +28,7 @@
 -  I love turning data into insights and ideas into intelligent solutions
 -  Based in France
 
-## 🎬 AI Project Demo
 
-![AI Demo](demo.gif)
 
 ## 🛠️ Tech Stack
 
