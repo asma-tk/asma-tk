@@ -15,10 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;Building+Intelligent+Solutions;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
-## 🎬 Demo Video
-https://github.com/asma-tk/asma-tk/blob/main/ia.mp4
 
-[🎥 Watch the demo](./ia.mp4)
 ##  About Me
 
 -  **AI Developer** at [Simplon](https://simplon.co) — training the next generation of tech talent
@@ -28,6 +25,10 @@ https://github.com/asma-tk/asma-tk/blob/main/ia.mp4
 -  I love turning data into insights and ideas into intelligent solutions
 -  Based in France
 
+<video width="600" controls>
+  <source src="qi.mp4" type="video/mp4">
+  
+</video>
 ---
 
 ## 🛠️ Tech Stack
