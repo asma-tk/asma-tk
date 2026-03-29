@@ -26,7 +26,7 @@
 -  Based in France
 
 <video width="600" controls>
-  <source src="./ai.mp4" type="video/mp4">
+  <source src="https://github.com/asma-tk/asma-tk/blob/main/ia.mp4" type="video/mp4">
   
 </video>
 ---
