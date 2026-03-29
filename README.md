@@ -27,8 +27,7 @@
 
 ## 🎬 AI Project Demo
 
-[![Watch the Video](https://img.youtube.com/vi/-HyRAWnmRbE/0.jpg)](https://www.youtube.com/watch?v=-HyRAWnmRbE)
----
+![AI Demo](demo.gif)
 
 ## 🛠️ Tech Stack
 
