@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asma-tk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-tk&layout=compact&theme=tokyonight&hide_border=true)
 
