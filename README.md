@@ -59,7 +59,6 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-tk&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=asma-tk&theme=tokyonight&hide_border=true)
 
